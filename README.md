@@ -44,6 +44,10 @@ dependency.
 **[talos-k8s-hcloud](https://github.com/dysonfrost/talos-k8s-hcloud)**
 GitOps-managed Talos Kubernetes on Hetzner. No SSH, zero drift.
 
+**[infra-blueprint](https://github.com/dysonfrost/infra-blueprint)**
+Production-ready AWS infrastructure with Terraform and Ansible. HTTPS, SSM
+access, S3 remote state.
+
 **[arkia-flight-monitor](https://github.com/dysonfrost/arkia-flight-monitor)**
 Self-hosted Discord bot watching airline seat availability.
 
