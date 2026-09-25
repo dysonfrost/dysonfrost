@@ -1,60 +1,57 @@
 ### Hi, I'm Jérémy 👋
 
-**Senior Platform & DevOps Engineer.** I build secure, self-service cloud platforms that make developers autonomous.
+**Senior Platform & DevOps Engineer.** I build self-service Kubernetes
+platforms, with a focus on agentic AI for ops.
 
-- 🔭 **Currently:** Open to freelance and permanent remote roles across the EU.
-- ☁️ **Specialties:** Kubernetes, AWS, Terraform, GitOps, Platform Engineering, DevSecOps.
-- 🤖 **AI in Ops:** Running local LLM agents on Kubernetes for incident analysis, config generation, and automation.
-- 🛡️ **Compliance:** SOC 2 Type II, zero-trust, Vault, encryption at rest and in transit.
-- 🌍 **Remote from Nantes, France (CET).** Available immediately.
+🔍 Open to freelance and permanent remote roles across the EU · 📍 Nantes,
+France (CET) · Available immediately
 
 ---
 
 ### 🧰 Tech Stack
 
-**Cloud & Infrastructure**  
-AWS, GCP, DigitalOcean, Cloudflare, Hetzner, Terraform, Ansible, Packer
+**Cloud & Infrastructure**
+AWS, GCP, DigitalOcean, Hetzner, Cloudflare, Terraform
 
-**Containers & Orchestration**  
-Kubernetes, Docker, Helm, ECS, Nomad, Talos Linux
+**Containers & Orchestration**
+Kubernetes, Docker, Helm, Talos Linux
 
-**CI/CD & GitOps**  
-GitHub Actions, GitLab CI, ArgoCD, FluxCD, self-service pipelines
+**CI/CD & GitOps**
+GitHub Actions, GitLab CI, Argo CD, Flux CD
 
-**Observability**  
-Prometheus, Grafana, ELK, Datadog, Splunk, SLO-based alerting
+**Observability**
+Prometheus, Grafana, ELK
 
-**Security**  
-Vault, Teleport, SOPS, WAF, firewall, mTLS, zero-trust architecture
+**Security**
+Vault, Teleport, mTLS, SOPS, zero-trust
 
-**Languages**  
-Go, Python, Bash, Ruby | French (native), English (fluent)
+**Languages**
+Go, Python, Bash. French (native), English (fluent)
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🤖 Agentic AI Platform on Kubernetes
-Local LLM agents (Ollama) running on k3s, orchestrated for ops automation tasks. No cloud API dependency.  
-`arkollama-k3s` · [github.com/dysonfrost/arkollama-k3s](https://github.com/dysonfrost/arkollama-k3s)
+**[cncf-agentic-platform](https://github.com/dysonfrost/cncf-agentic-platform)**
+Platform engineering lab built exclusively on CNCF projects: k3d, Argo CD,
+Prometheus/Grafana, kagent. Runs local LLM agents on Kubernetes for cluster
+health analysis and incident diagnosis.
 
-#### ⚙️ GitOps Talos Cluster on Hetzner
-Immutable Kubernetes cluster managed entirely via GitOps. No SSH, zero drift, automated dependency updates.  
-`talos-k8s-hcloud` · [github.com/dysonfrost/talos-k8s-hcloud](https://github.com/dysonfrost/talos-k8s-hcloud)
+**[arkollama-k3s](https://github.com/dysonfrost/arkollama-k3s)**
+Local LLM agents (Ollama, McKinsey ARK framework) on k3s. No cloud API
+dependency.
 
-#### ✈️ Arkia Flight Monitor Bot
-Reverse-engineered a protected airline API to build a self-hosted Discord bot that sends real-time seat availability alerts.  
-`arkia-flight-monitor` · [github.com/dysonfrost/arkia-flight-monitor](https://github.com/dysonfrost/arkia-flight-monitor)
+**[talos-k8s-hcloud](https://github.com/dysonfrost/talos-k8s-hcloud)**
+GitOps-managed Talos Kubernetes on Hetzner. No SSH, zero drift.
 
----
-
-### 📫 Let's connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/jreisser)
-- 🇬🇧 [Collective.work](https://www.collective.work/profile/jeremy-reisser)
-- 🇫🇷 [Malt](https://www.malt.fr/profile/jeremyreisser)
-- 📧 jeremy.reisser@gmail.com
+**[arkia-flight-monitor](https://github.com/dysonfrost/arkia-flight-monitor)**
+Self-hosted Discord bot watching airline seat availability.
 
 ---
 
-*"A well-designed platform makes developers autonomous, not dependent. I build self-service environments, one-click pipelines, and guardrails that protect without slowing down."*
+### 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/jreisser) ·
+[Collective.work](https://www.collective.work/profile/jeremy-reisser) ·
+[Malt](https://www.malt.fr/profile/jeremyreisser) ·
+jeremy.reisser@gmail.com
