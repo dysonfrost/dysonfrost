@@ -34,8 +34,8 @@ Go, Python, Bash. French (native), English (fluent)
 
 **[cncf-agentic-platform](https://github.com/dysonfrost/cncf-agentic-platform)**
 Platform engineering lab built exclusively on CNCF projects: k3d, Argo CD,
-Prometheus/Grafana, kagent. Runs local LLM agents on Kubernetes for cluster
-health analysis and incident diagnosis.
+Prometheus/Grafana, Tempo, Kyverno, kagent. Local LLM agents with A2A
+orchestration and distributed tracing.
 
 **[arkollama-k3s](https://github.com/dysonfrost/arkollama-k3s)**
 Local LLM agents (Ollama, McKinsey ARK framework) on k3s. No cloud API
