@@ -49,9 +49,8 @@ Production-ready AWS infrastructure with Terraform and Ansible. HTTPS, SSM
 access, S3 remote state.
 
 **[gce-guestbook-deployment](https://github.com/dysonfrost/gce-guestbook-deployment)**
-Terraform + Ansible deployment of a nginx/PHP-FPM/Redis stack on a single
-GCE VM, with a written HA migration proposal covering zero-downtime, Redis
-Sentinel, and self-hosted observability.
+Terraform + Ansible deployment of a nginx/PHP-FPM/Redis stack on GCE, with
+a written HA migration proposal.
 
 **[arkia-flight-monitor](https://github.com/dysonfrost/arkia-flight-monitor)**
 Self-hosted Discord bot watching airline seat availability.
